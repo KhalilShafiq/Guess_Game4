@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guess_Game</string>
+    <string name="lowest_range">Lowest Range</string>
+    <string name="highst_range">Highst Range</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="player_2">Player 2</string>
+    <string name="check">Check</string>
+    <string name="clear">Clear</string>
+    <string name="todo">TODO</string>
+</resources>
